@@ -1,7 +1,7 @@
 
 const button = document.getElementById('button')
 const audioElement = document.getElementById('audio')
-console.log(audioElement)
+
 
 //VoiceRSS Javscript SDK
 const VoiceRSS = {
